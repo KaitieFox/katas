@@ -25,14 +25,14 @@ class ComposerStaticInitb7fb5b66c65af93ba2fefed8bb5d0cf6
             'Prophecy\\' => 9,
             'PhpParser\\' => 10,
         ),
+        'K' => 
+        array (
+            'Karate\\' => 7,
+        ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
             'DeepCopy\\' => 9,
-        ),
-        'A' => 
-        array (
-            'App\\' => 4,
         ),
     );
 
@@ -55,6 +55,10 @@ class ComposerStaticInitb7fb5b66c65af93ba2fefed8bb5d0cf6
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
+        'Karate\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Doctrine\\Instantiator\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
@@ -62,10 +66,6 @@ class ComposerStaticInitb7fb5b66c65af93ba2fefed8bb5d0cf6
         'DeepCopy\\' => 
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
-        ),
-        'App\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
