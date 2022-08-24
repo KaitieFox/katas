@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"BinaryChop1Test::it_passes":0.009}}
+{"version":1,"defects":{"PetTest::it_returns_a_dog_as_a_type_of_pet":4},"times":{"BinaryChop1Test::it_passes":0.009,"PetTest::it_returns_a_dog_as_a_type_of_pet":0.01}}
