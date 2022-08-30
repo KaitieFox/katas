@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"PetTest::it_returns_a_dog_as_a_type_of_pet":0.009,"PetTest::it_returns_a_cat_as_a_type_of_pet":0,"PetTest::it_returns_a_bird_as_a_type_of_pet":0,"PetTest::it_sleeps":0,"PetTest::it_wakes":0,"PetTest::it_is_adopted":0}}

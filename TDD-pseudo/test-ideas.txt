@@ -1,0 +1,39 @@
+it_can_be_a_cat
+
+it_can_be_an_dog
+
+it can have black fur
+
+it can sleep
+
+it can play
+
+it can eat
+
+it can have name
+
+it can be dopey
+
+it can adopted
+
+it can be house trained
+
+it can male
+
+it can be female
+
+----
+
+reqs
+- species_type
+- color
+- skin
+- gender
+-- personality_traits
+- acquisition
+- name
+- speak (sounds it makes)
+- adopted
+-- abilties
+- age
+- house_trained
